@@ -343,3 +343,7 @@ main .section.highlight {
   }
 }
 
+.middle-section>ul { 
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr)) !important;
+
+}
