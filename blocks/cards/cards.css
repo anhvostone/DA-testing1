@@ -28,5 +28,5 @@
   object-fit: cover;
 }
 .middle-section .cards > ul > li img {
-  aspect-ratio: unset !important;
+  aspect-ratio: 1 !important;
 }
