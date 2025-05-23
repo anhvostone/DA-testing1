@@ -352,6 +352,3 @@ main .section.highlight {
 .middle-section {
   background-color: #131313;
 }
-.middle-section > ul > li {
-  border: none
-}
