@@ -96,6 +96,7 @@ footer .footer {
 header .header[data-block-status="loaded"],
 footer .footer[data-block-status="loaded"] {
   visibility: visible;
+  background-color: #6c757d;
 }
 
 h1,
