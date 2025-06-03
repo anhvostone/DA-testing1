@@ -788,3 +788,8 @@ main div.form-wrapper {
         margin: 0;
     }
 }
+.form.searchbox.block form {
+    display: flex
+;
+    align-items: center;
+}
