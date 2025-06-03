@@ -22,3 +22,8 @@ footer .footer p {
 .footer.block.columns-2-cols img {
     width: auto;
 }
+.columns.footer.block.columns-2-cols {
+    background: url(https://broadband.nebraska.gov/media/zkjpcsim/state-seal.png) no-repeat;
+    background-size: 12%;
+    background-position-x: right;
+}
